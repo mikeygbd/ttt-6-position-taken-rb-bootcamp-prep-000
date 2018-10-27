@@ -5,5 +5,6 @@ if  board[index] == " "
 elsif board[index] == ""
   false
 else board[index] == nil
+  return false
 end
 end
